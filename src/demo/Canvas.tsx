@@ -27,7 +27,10 @@ const listPoint = [
         261.9684210526316},
     { x: 295,y: 187 },
     { x: 120, y: 56 },
-    { x: 220, y:76 }
+    { x: 220, y:76 },
+    { x: 100,y: 117 },
+    { x: 320, y: 16 },
+    { x: 20, y:74 }
 ]
 
 const Canvas = (props: CanvasProps) => {
