@@ -1,6 +1,8 @@
 # PolygonContour V2
 #### Algorithm for implementing the edge effect offset
 
+Check out the Demo here: <https://polygon-contour-v2.herokuapp.com/>
+
 The code is a modified version of the V1 Polygon Contour Algorithm that generates a a contour around the a list of points by the given distance. The code is written in a way that it can be used as a module in other programs. The algorithm uses a different approach on generating the points of the contours and it is coded using Typescript.
 
 ## Features
