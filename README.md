@@ -28,8 +28,3 @@ The code is a modified version of the V1 Polygon Contour Algorithm that generate
 <https://gorillasun.de/blog/an-algorithm-for-polygons-with-rounded-corners>
 <https://dl.acm.org/doi/pdf/10.1145/129902.129906>
 <https://doc.cgal.org/Manual/3.2/doc_html/cgal_manual/Straight_skeleton_2/Chapter_main.html#Section_16.3>
-
-
-
-
-<https://github.com/Stanko/offset-polygon/blob/main/src/offset-polygon.ts>
