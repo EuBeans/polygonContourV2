@@ -6,15 +6,13 @@
 export const styles = {
     canvas: {
         backgroundColor: "white",
-        maxHeight: "50%",
-        maxWidth: "50%",
+        maxHeight: "100%",
+        maxWidth: "100%",
         borderRadius: "10px",
         boxShadow: "0px 0px 10px 0px rgba(0,0,0,0.75)",
-        marginX: "20%"
     },
     container: {
         width: "100%",
-        paddingY: "5vh",
     },
 
     dot: {
